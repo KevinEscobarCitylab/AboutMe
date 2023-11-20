@@ -61,24 +61,22 @@
 <!--<img align="right" src="https://cdn-icons-png.flaticon.com/512/5986/5986092.png" width=500/>-->
 <!--<img align="right" src="https://media3.giphy.com/media/rXzHCTpiVyWb7vMsVb/giphy.gif?cid=ecf05e473uw2rxb7jvlvbxa71eu8hewrn3z9qe86krfttve3&rid=giphy.gif&ct=s" height=300/>-->
   
-- :octocat: I'm Janith Disanayake
-- :computer: Software Enginering student
-- :man_student: Following a Degree Programe in [NIBM](https://www.nibm.lk/)
-- :lion: Live in Sri Lanka
-- :man_technologist: Software Developer
+- :octocat: I'm Kevin Escobar
+- :computer: Software Development Engineering Student
+- :man_student: Following a Degree Programe in [ITCA](https://www.itca.edu.sv/)
+- :lion: Live in El Salvador
+- :man_technologist: SQL Developer
 
 </div>
 <br>
 
 <h3> <img align=center src="Images/tools.gif" style="width:40px; height=40px"/> Current Stack </h3>
 <div align="left">
-  <img src="/Images/svelte-logo.svg" title="Svelte" alt="Svelte" width="35" height="35"/>
-  &nbsp;
-  <img src="/Images/golang-logo.svg" title="Svelte" alt="Svelte" width="40" height="40"/>
+  <img src="/Images/angular-logo.svg" title="Angular" alt="Angular" width="35" height="35"/>
   &nbsp;&nbsp;
-  <img src="/Images/angular-logo.svg" title="Svelte" alt="Svelte" width="35" height="35"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="/Images/webstorm-logo.svg" title="Svelte" alt="Svelte" width="35" height="35"/>
+  <img src="/Images/golang-logo.svg" title="GoLang" alt="GoLang" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="/Images/svelte-logo.svg" title="Svelte" alt="Svelte" width="35" height="35"/>
 </div>
 <br><br>
 
@@ -99,4 +97,4 @@
 </a>
 <br><br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=janith3003&show_icons=true&count_private=true&hide_border=true&theme=outrun)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinEscobarCitylab&show_icons=true&count_private=true&hide_border=true&theme=outrun)

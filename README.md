@@ -62,7 +62,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" title="Mongo DB" alt="Mongo DB" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cisco_logo.svg/1280px-Cisco_logo.svg.png" title="Cisco Networking" alt="Cisco Networking" width="40" height="43"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cisco_logo.svg/1280px-Cisco_logo.svg.png" title="Cisco Networking" alt="Cisco Networking" width="37" height="43"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/arduino-lang-icon.svg" title="Arduino" alt="Arduino" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;

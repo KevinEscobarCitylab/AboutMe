@@ -53,10 +53,12 @@
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/ubuntu-logo.png" title="Ubuntu" alt="Ubuntu" width="42" height="42"/>
   <br>
-  
+
   <img src="/Images/reactjs-icon.svg" title="React" alt="Java" width="40" height="auto"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/spring-boot-logo.png" title="Spring" alt="Spring" width="43" height="auto"/>
+   &nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" title="Power BI" alt="Power BI" width="43" height="auto"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/arduino-lang-icon.svg" title="Arduino" alt="Arduino" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;

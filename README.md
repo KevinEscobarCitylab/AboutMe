@@ -72,11 +72,11 @@
 
 <h3> <img align=center src="Images/tools.gif" style="width:40px; height=40px"/> Current Stack </h3>
 <div align="left">
-  <img src="/Images/angular-logo.svg" title="Angular" alt="Angular" width="35" height="35"/>
+  <img src="/Images/arduino-lang-icon.svg" title="Angular" alt="Angular" width="35" height="35"/>
   &nbsp;&nbsp;
-  <img src="/Images/golang-logo.svg" title="GoLang" alt="GoLang" width="40" height="40"/>
+  <img src="/Images/python-logo.png" title="GoLang" alt="GoLang" width="40" height="40"/>
   &nbsp;&nbsp;
-  <img src="/Images/svelte-logo.svg" title="Svelte" alt="Svelte" width="35" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="Svelte" alt="Svelte" width="35" height="35"/>
 </div>
 <br><br>
 

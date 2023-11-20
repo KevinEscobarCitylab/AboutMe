@@ -86,7 +86,13 @@
 <div align="left">
   <img src="/Images/arduino-lang-icon.svg" title="Angular" alt="Angular" width="35" height="35"/>
   &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" title="PostgreSQL" alt="PostgreSQL" width="35" height="35"/>
+  &nbsp;&nbsp;
+  <img src="/Images/postman-logo.svg" title="Postman" alt="Postman" width="35" height="35"/>
+  &nbsp;&nbsp;
   <img src="/Images/python-logo.png" title="GoLang" alt="GoLang" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="/Images/github-logo-purple.svg" title="GoLang" alt="GoLang" width="40" height="40"/>
   &nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="Svelte" alt="Svelte" width="35" height="35"/>
 </div>

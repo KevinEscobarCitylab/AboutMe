@@ -60,10 +60,14 @@
    &nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" title="Power BI" alt="Power BI" width="43" height="auto"/>
   &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" title="Mongo DB" alt="Mongo DB" width="40" height="40"/>
+   &nbsp;&nbsp;&nbsp;
   <img src="/Images/arduino-lang-icon.svg" title="Arduino" alt="Arduino" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/kotlin-logo.svg" title="Kotlin" alt="Kotlin" width="43" height="auto"/>
   </div>
+
+  
   <br><br>
   
 <!--<img align="right" src="https://cdn-icons-png.flaticon.com/512/5986/5986092.png" width=500/>-->

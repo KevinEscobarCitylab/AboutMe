@@ -47,6 +47,8 @@
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/nodejs-logo.svg" title="Node JS" alt="Node JS" width="40" height="auto"/>
   &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/soapui_93772.png" title="SOAP-UI" alt="SOAP-UI" width="40" height="auto"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySql" alt="MySQL" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/ubuntu-logo.png" title="Ubuntu" alt="Ubuntu" width="42" height="42"/>

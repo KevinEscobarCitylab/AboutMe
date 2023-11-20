@@ -27,6 +27,8 @@
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/pycharm-logo.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
+  <img src="/Images/pngwing.com.png" title="MS-SQL" alt="MS-SQL" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="/Images/android-studio-logo.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>
   
   <br>
